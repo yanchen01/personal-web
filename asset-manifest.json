@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/personal-web/static/css/main.41b57733.chunk.css",
+    "main.css": "/personal-web/static/css/main.b8374696.chunk.css",
     "main.js": "/personal-web/static/js/main.46f5fb25.chunk.js",
     "main.js.map": "/personal-web/static/js/main.46f5fb25.chunk.js.map",
     "runtime-main.js": "/personal-web/static/js/runtime-main.ad575770.js",
@@ -8,9 +8,9 @@
     "static/js/2.8153a6c7.chunk.js": "/personal-web/static/js/2.8153a6c7.chunk.js",
     "static/js/2.8153a6c7.chunk.js.map": "/personal-web/static/js/2.8153a6c7.chunk.js.map",
     "index.html": "/personal-web/index.html",
-    "precache-manifest.6009fcfa0b271ac3f5eb649cc5528969.js": "/personal-web/precache-manifest.6009fcfa0b271ac3f5eb649cc5528969.js",
+    "precache-manifest.f57164e431e80ce0471a3699ceaf0b73.js": "/personal-web/precache-manifest.f57164e431e80ce0471a3699ceaf0b73.js",
     "service-worker.js": "/personal-web/service-worker.js",
-    "static/css/main.41b57733.chunk.css.map": "/personal-web/static/css/main.41b57733.chunk.css.map",
+    "static/css/main.b8374696.chunk.css.map": "/personal-web/static/css/main.b8374696.chunk.css.map",
     "static/js/2.8153a6c7.chunk.js.LICENSE.txt": "/personal-web/static/js/2.8153a6c7.chunk.js.LICENSE.txt",
     "static/media/Yan_Resume.pdf": "/personal-web/static/media/Yan_Resume.b9ff91ad.pdf",
     "static/media/burger-builder.png": "/personal-web/static/media/burger-builder.bb8cdfd3.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.ad575770.js",
     "static/js/2.8153a6c7.chunk.js",
-    "static/css/main.41b57733.chunk.css",
+    "static/css/main.b8374696.chunk.css",
     "static/js/main.46f5fb25.chunk.js"
   ]
 }
